@@ -1,2 +1,2 @@
 # Nexus-OS
-Sistema Operacional Inteligente para Gestão de Negócios 
+Sistema Operacional Inteligente para Gestão de Negócios.
